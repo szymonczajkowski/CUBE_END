@@ -1,2 +1,0 @@
-# CUBE_END
-CUBE
